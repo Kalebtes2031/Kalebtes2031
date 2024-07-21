@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MarketPlacePro](https://github.com/Kalebtes2031/MarketPlacePro)
 
-- 🌱 I’m currently learning **TypeScript & Angular**
+- 🌱 I’m currently learning **Angular with .NET**
 
 - 💬 Ask me about **react, python, Django, Django rest framework**
 
