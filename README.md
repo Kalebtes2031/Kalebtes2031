@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kaleb! 👋</h1>
-<h3 align="center">A Software Engineer from Addis Ababa, Ethiopia</h3><div style="width:200px;height:auto;position:relative;">
+<h3 align="center">A Software Engineer </h3><div style="width:200px;height:auto;position:relative;">
         <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" width="200" height="200" style="position:relative" alt="GIPHY GIF">
     </div>
 
