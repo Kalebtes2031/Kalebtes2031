@@ -61,7 +61,7 @@ Building scalable web & mobile applications with production-grade architecture, 
 ### 🛒 Marketplace Platform  
 Full production-level marketplace system with authentication, role-based access, REST APIs, and modern frontend integration.
 
-### 📱 Yason Supermarket Mobile App  
+### 📱 Grocer Mobile App  
 Deployed on Play Store.  
 Includes real-time order tracking, admin dashboard, delivery management, and backend API integration.
 
