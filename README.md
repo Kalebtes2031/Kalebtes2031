@@ -91,6 +91,28 @@ Production-oriented fullstack React Native app with Firebase + TMDB + AI recomme
 
 Repo: https://github.com/Kalebtes2031/Popcornly
 
+### Connectopia
+**AI-assisted matchmaking platform with identity verification, realtime messaging, and production hardening**
+
+**Highlights:**
+- Built matching pipeline with reciprocal preference filtering (age/gender/distance)
+- Fixed domain/model inconsistencies and stabilized match-to-message data flow
+- Implemented persisted + realtime messaging using Socket.IO room architecture
+- Added referral and safety/reporting modules with backend route validation
+- Introduced observability baseline:
+  - structured JSON logging (`pino`)
+  - request correlation IDs
+  - health/readiness endpoints
+  - runtime metrics + alert thresholds
+  - Sentry error reporting integration
+- Added quality engineering stack:
+  - backend smoke tests (Jest + Supertest)
+  - frontend tests (Vitest + RTL)
+  - Playwright e2e smoke flow
+  - GitHub Actions CI for lint/test/build
+ 
+Repo: https://github.com/Kalebtes2031/connectopia    
+
 ### Marketplace Platform
 Full production-level marketplace with authentication, role-based access control, REST APIs, and modern frontend integration.
 
