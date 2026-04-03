@@ -77,7 +77,7 @@ I build production-ready web and mobile products with secure authentication, sca
 
 ## Featured Projects
 
-### Popcornly — Mobile Movie Discovery App
+### Popcornly - Mobile Movie Discovery App
 Production-ready React Native app with AI-powered recommendations and scalable backend integration.
 
 **Highlights:**
@@ -90,7 +90,7 @@ Repo: https://github.com/Kalebtes2031/Popcornly
 
 ---
 
-### Art Wall Designer — Interactive E-commerce Platform
+### Art Wall Designer - Interactive E-commerce Platform
 Web app for visualizing and purchasing artwork with real-time drag-and-drop wall editing and payments.
 
 **Highlights:**
@@ -103,7 +103,7 @@ Live: https://artwalldesigner.onrender.com/
 
 ---
 
-### Connectopia — AI Matchmaking Platform
+### Connectopia - AI Matchmaking Platform
 AI-powered matchmaking system with real-time messaging, production observability, and full testing pipeline.
 
 **Highlights:**
@@ -116,7 +116,7 @@ Repo: https://github.com/Kalebtes2031/connectopia
 
 ---
 
-### Project Management System — Jira Alternative
+### Project Management System - Jira Alternative
 Fullstack SaaS-style platform for managing teams, tasks, and workflows without subscription limitations.
 
 **Highlights:**
@@ -129,7 +129,7 @@ Repo: https://github.com/Kalebtes2031/ProjectManagementSystem
 
 ---
 
-### Kabth — E-commerce & Delivery Ecosystem
+### Kabth - E-commerce & Delivery Ecosystem
 Real-world commerce system with mobile apps, delivery tracking, and admin management dashboard.
 
 **Highlights:**
@@ -142,7 +142,7 @@ Repo: https://github.com/Kalebtes2031/FinalizedYason
 
 ---
 
-### AI Automation Chatbot — LLM-powered Chat App
+### AI Automation Chatbot - LLM-powered Chat App
 Fullstack AI chatbot with real-time, context-aware conversations and persistent chat history.
 
 **Highlights:**
