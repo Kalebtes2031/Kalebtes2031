@@ -77,56 +77,81 @@ I build production-ready web and mobile products with secure authentication, sca
 
 ## Featured Projects
 
-### Popcornly (Mobile Movie Discovery App)
-Production-oriented fullstack React Native app with Firebase + TMDB + AI recommendation flow.  
-**Highlights:**
-- Email/Password + Google Sign-In authentication
-- Movie/TV discovery, search, detail pages, favorites
-- In-app trailer playback + YouTube fallback handling
-- “Where to watch” providers by country
-- AI recommendations pipeline (client → Firebase Function → OpenAI → TMDB enrichment)
-- Hardened Firestore security rules + emulator rule tests
-- Service-layer unit tests + auth/favorites integration tests
-- GitHub Actions CI for lint, typecheck, and tests
-
-Repo: https://github.com/Kalebtes2031/Popcornly
-
-### Connectopia
-**AI-assisted matchmaking platform with identity verification, realtime messaging, and production hardening**
+### Popcornly — Mobile Movie Discovery App
+Production-ready React Native app with AI-powered recommendations and scalable backend integration.
 
 **Highlights:**
-- Built matching pipeline with reciprocal preference filtering (age/gender/distance)
-- Fixed domain/model inconsistencies and stabilized match-to-message data flow
-- Implemented persisted + realtime messaging using Socket.IO room architecture
-- Added referral and safety/reporting modules with backend route validation
-- Introduced observability baseline:
-  - structured JSON logging (`pino`)
-  - request correlation IDs
-  - health/readiness endpoints
-  - runtime metrics + alert thresholds
-  - Sentry error reporting integration
-- Added quality engineering stack:
-  - backend smoke tests (Jest + Supertest)
-  - frontend tests (Vitest + RTL)
-  - Playwright e2e smoke flow
-  - GitHub Actions CI for lint/test/build
- 
-Repo: https://github.com/Kalebtes2031/connectopia    
+- Firebase backend with secure authentication (Email + Google Sign-In)
+- AI recommendation pipeline (Firebase Functions → OpenAI → TMDB)
+- Trailer playback with fallback handling
+- CI pipeline with linting, typecheck, and automated tests
 
-### Marketplace Platform
-Full production-level marketplace with authentication, role-based access control, REST APIs, and modern frontend integration.
+Repo: https://github.com/Kalebtes2031/Popcornly  
 
-### Grocer Mobile App
-Published on Play Store with real-time order tracking, delivery workflow, admin dashboard, and backend API integration.
+---
 
-### Wall Art Designer
-Interactive drag-and-drop wall designer with OAuth authentication, cart sync, and dynamic product resizing.
+### Art Wall Designer — Interactive E-commerce Platform
+Web app for visualizing and purchasing artwork with real-time drag-and-drop wall editing and payments.
 
-### ChatPDF
-LLM-powered app for interacting with PDF documents using conversational AI.
+**Highlights:**
+- Drag-and-drop wall designer with resize/rotate (React Konva)
+- Stripe payments (PaymentIntent + webhook verification)
+- Role-based system (admin, seller, customer) with JWT + Google OAuth
+- Cart sync and persistent layout management
 
-### Notification System
-Firebase push notifications with foreground/background handling, admin dashboard, and event tracking.
+Live: https://artwalldesigner.onrender.com/  
+
+---
+
+### Connectopia — AI Matchmaking Platform
+AI-powered matchmaking system with real-time messaging, production observability, and full testing pipeline.
+
+**Highlights:**
+- Real-time messaging with Socket.IO (room-based architecture)
+- Preference-based matching engine (age, distance, gender)
+- Observability: structured logging, correlation IDs, Sentry integration
+- Full testing stack (Jest, Vitest, Playwright) + CI/CD pipelines
+
+Repo: https://github.com/Kalebtes2031/connectopia  
+
+---
+
+### Project Management System — Jira Alternative
+Fullstack SaaS-style platform for managing teams, tasks, and workflows without subscription limitations.
+
+**Highlights:**
+- Role-based team and permission system
+- Kanban-style task management with optimized state handling
+- Scalable REST APIs using Django + Djoser authentication
+- Clean UI built with modern component architecture
+
+Repo: https://github.com/Kalebtes2031/ProjectManagementSystem
+
+---
+
+### Kabth — E-commerce & Delivery Ecosystem
+Real-world commerce system with mobile apps, delivery tracking, and admin management dashboard.
+
+**Highlights:**
+- Customer + delivery mobile apps with real-time tracking
+- Admin panel for managing orders, vendors, and logistics
+- Multi-role system supporting full order lifecycle
+- Integrated map-based delivery tracking
+
+Repo: https://github.com/Kalebtes2031/FinalizedYason  
+
+---
+
+### AI Automation Chatbot — LLM-powered Chat App
+Fullstack AI chatbot with real-time, context-aware conversations and persistent chat history.
+
+**Highlights:**
+- LLM integration (Hugging Face) for intelligent responses
+- Markdown-rendered chat interface
+- Authentication and chat history persistence
+- Clean and responsive UI/UX
+
+Repo: https://github.com/Kalebtes2031/Chatbot  
 
 ---
 
